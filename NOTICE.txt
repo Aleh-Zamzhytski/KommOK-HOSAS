@@ -1,0 +1,23 @@
+HOSAS Joystick
+Copyright 2026 Aleh-Zamzhytski & Kommande
+
+This product includes software developed for the HOSAS Joystick project:
+https://github.com/Aleh-Zamzhytski/hosas-joystick
+
+The original firmware in this repository is licensed under the Apache License,
+Version 2.0. A copy of the license is provided in the LICENSE file.
+
+Original firmware sources:
+  firmware/Arduino/HOSAS/
+  firmware/STM32/CJoy/Core/
+  firmware/STM32/CJoy/USB_DEVICE/
+
+Third-party components
+----------------------
+The STM32 firmware incorporates components distributed by ARM Limited and
+STMicroelectronics under their own licenses. These components are not covered by the
+Apache License 2.0 grant above. See THIRD-PARTY-NOTICES.md and the LICENSE.txt files
+located in:
+  firmware/STM32/CJoy/Drivers/CMSIS/
+  firmware/STM32/CJoy/Drivers/CMSIS/Device/ST/STM32F1xx/
+  firmware/STM32/CJoy/Drivers/STM32F1xx_HAL_Driver/
