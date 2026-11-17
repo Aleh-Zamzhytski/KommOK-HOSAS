@@ -1,0 +1,21 @@
+# KiCad
+*-backups/
+fp-info-cache
+*.kicad_prl
+_autosave-*
+*.lck
+
+# PlatformIO / STM32CubeIDE
+.pio/
+.settings/
+Debug/
+Release/
+*.o
+*.a
+*.elf
+*.d
+
+# OS
+.DS_Store
+Thumbs.db
+desktop.ini

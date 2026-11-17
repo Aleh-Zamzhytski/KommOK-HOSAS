@@ -1,0 +1,3 @@
+firmware/STM32/CJoy/Drivers/** linguist-vendored
+firmware/STM32/CJoy/Middlewares/** linguist-vendored
+firmware/STM32/CJoy/EWARM/** linguist-vendored
