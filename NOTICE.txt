@@ -2,10 +2,10 @@ HOSAS Joystick
 Copyright 2026 Aleh-Zamzhytski & Kommande
 
 This product includes software developed for the HOSAS Joystick project:
-https://github.com/Aleh-Zamzhytski/hosas-joystick
+https://github.com/Aleh-Zamzhytski/KommOK-HOSAS
 
 The original firmware in this repository is licensed under the Apache License,
-Version 2.0. A copy of the license is provided in the LICENSE file.
+Version 2.0. A copy of the license is provided in the LICENSE.txt file.
 
 Original firmware sources:
   firmware/Arduino/HOSAS/
@@ -21,3 +21,4 @@ located in:
   firmware/STM32/CJoy/Drivers/CMSIS/
   firmware/STM32/CJoy/Drivers/CMSIS/Device/ST/STM32F1xx/
   firmware/STM32/CJoy/Drivers/STM32F1xx_HAL_Driver/
+  firmware/STM32/CJoy/Middlewares/ST/STM32_USB_Device_Library/
